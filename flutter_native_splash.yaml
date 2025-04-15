@@ -1,0 +1,11 @@
+flutter_native_splash:
+  color: "#F5F5F5" # Matches the background color of the animated splash screen
+  image: assets/Logo.png
+  android: true
+  ios: true
+  image_dark: assets/Logo.png # Optional: Use the same logo for dark mode
+  android_gravity: center
+  ios_content_mode: center
+  android_12:
+    image: assets/Logo.png # Foreground image for adaptive icon
+    color: "#F5F5F5" # Background color for adaptive icon

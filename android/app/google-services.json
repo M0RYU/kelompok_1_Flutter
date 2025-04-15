@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "280437545769",
+    "firebase_url": "https://flutterkel1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutterkel1",
+    "storage_bucket": "flutterkel1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280437545769:android:9a597ab1a899b6131bb538",
+        "android_client_info": {
+          "package_name": "com.example.testing_page"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9tThoDh12GBExg8wlA57orOAmcFW2fk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

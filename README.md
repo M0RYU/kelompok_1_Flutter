@@ -1,5 +1,14 @@
-# testing_page
+<h1>Project uts Kelompok 1</h1>
 
-A new Flutter project.
-# kelompok_1_Flutter
-# kelompok_1_Flutter
+<ol>
+<li>
+Flutter Pub get
+</li>
+<li>
+pastikan versi ndk dan sdk yang dimiliki sesuai
+</li>
+<li>
+flutter run
+</li>
+</ol>
+
